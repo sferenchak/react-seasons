@@ -1,13 +1,13 @@
 {
-  "main.css": "/sferenchak/react-seasons/static/css/main.d2337424.chunk.css",
-  "main.js": "/sferenchak/react-seasons/static/js/main.a5848704.chunk.js",
-  "main.js.map": "/sferenchak/react-seasons/static/js/main.a5848704.chunk.js.map",
-  "runtime~main.js": "/sferenchak/react-seasons/static/js/runtime~main.9b0f05ea.js",
-  "runtime~main.js.map": "/sferenchak/react-seasons/static/js/runtime~main.9b0f05ea.js.map",
-  "static/js/2.c2695c00.chunk.js": "/sferenchak/react-seasons/static/js/2.c2695c00.chunk.js",
-  "static/js/2.c2695c00.chunk.js.map": "/sferenchak/react-seasons/static/js/2.c2695c00.chunk.js.map",
-  "index.html": "/sferenchak/react-seasons/index.html",
-  "precache-manifest.b1359dd2310d0ca37726bf4fef52bbea.js": "/sferenchak/react-seasons/precache-manifest.b1359dd2310d0ca37726bf4fef52bbea.js",
-  "service-worker.js": "/sferenchak/react-seasons/service-worker.js",
-  "static/css/main.d2337424.chunk.css.map": "/sferenchak/react-seasons/static/css/main.d2337424.chunk.css.map"
+  "main.css": "/static/css/main.d2337424.chunk.css",
+  "main.js": "/static/js/main.a5848704.chunk.js",
+  "main.js.map": "/static/js/main.a5848704.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.c2695c00.chunk.js": "/static/js/2.c2695c00.chunk.js",
+  "static/js/2.c2695c00.chunk.js.map": "/static/js/2.c2695c00.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.555ddcbb587531197d65105ec6e78354.js": "/precache-manifest.555ddcbb587531197d65105ec6e78354.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.d2337424.chunk.css.map": "/static/css/main.d2337424.chunk.css.map"
 }
